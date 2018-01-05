@@ -1,0 +1,8 @@
+1. Instead of feed backward network, you should write the technical name used for backpropagation neural network i.e Recurrent neural network etc.
+
+2. It will be good if you define the architecture of the network under the Network Architecture heading.
+
+3. To make it more clear for reader, there should be separate headings for every hypothesis i.e. 
+	1. Hypothesis
+	2. Experiments
+	3. Conclusion
